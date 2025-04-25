@@ -16,7 +16,7 @@ This is a Python console-based application to help emergency coordinators manage
 python main.py
 ```
 
-## Run Tests
+## Run Unit Tests
 
 ```bash
 python -m unittest discover tests
